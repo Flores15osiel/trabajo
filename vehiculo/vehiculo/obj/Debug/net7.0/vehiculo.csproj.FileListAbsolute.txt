@@ -1,0 +1,15 @@
+C:\Users\CS50\source\repos\vehiculo\vehiculo\bin\Debug\net7.0\vehiculo.exe
+C:\Users\CS50\source\repos\vehiculo\vehiculo\bin\Debug\net7.0\vehiculo.deps.json
+C:\Users\CS50\source\repos\vehiculo\vehiculo\bin\Debug\net7.0\vehiculo.runtimeconfig.json
+C:\Users\CS50\source\repos\vehiculo\vehiculo\bin\Debug\net7.0\vehiculo.dll
+C:\Users\CS50\source\repos\vehiculo\vehiculo\bin\Debug\net7.0\vehiculo.pdb
+C:\Users\CS50\source\repos\vehiculo\vehiculo\obj\Debug\net7.0\vehiculo.csproj.AssemblyReference.cache
+C:\Users\CS50\source\repos\vehiculo\vehiculo\obj\Debug\net7.0\vehiculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CS50\source\repos\vehiculo\vehiculo\obj\Debug\net7.0\vehiculo.AssemblyInfoInputs.cache
+C:\Users\CS50\source\repos\vehiculo\vehiculo\obj\Debug\net7.0\vehiculo.AssemblyInfo.cs
+C:\Users\CS50\source\repos\vehiculo\vehiculo\obj\Debug\net7.0\vehiculo.csproj.CoreCompileInputs.cache
+C:\Users\CS50\source\repos\vehiculo\vehiculo\obj\Debug\net7.0\vehiculo.dll
+C:\Users\CS50\source\repos\vehiculo\vehiculo\obj\Debug\net7.0\refint\vehiculo.dll
+C:\Users\CS50\source\repos\vehiculo\vehiculo\obj\Debug\net7.0\vehiculo.pdb
+C:\Users\CS50\source\repos\vehiculo\vehiculo\obj\Debug\net7.0\vehiculo.genruntimeconfig.cache
+C:\Users\CS50\source\repos\vehiculo\vehiculo\obj\Debug\net7.0\ref\vehiculo.dll
